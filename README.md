@@ -1,7 +1,5 @@
 ## Olá! Eu sou a Letícia Virgilio 🚀
 
-Sou apaixonada por tecnologia e atualmente estou me aprofundando em desenvolvimento fullstack e análise de dados. Meu objetivo é criar soluções inovadoras que agreguem valor às pessoas e empresas. 💡
-
 ### 📌 Sobre mim
 - 💻 Desenvolvedora Fullstack JavaScript
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
@@ -49,10 +47,3 @@ Um espaço interativo e informativo criado com **React, Node.js e banco de dados
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virgilioleticia@gmail.com)
 
 ---
-
-## 🚀 Pequena Animação
-```svg
-<svg width="600" height="100">
-  <text x="50" y="50" font-size="30" fill="blue">Bem-vindo ao meu GitHub! 🚀</text>
-</svg>
-```
