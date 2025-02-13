@@ -1,47 +1,58 @@
-# Olá, eu sou a Letícia Virgilio! 👋
+## Olá! Eu sou a Letícia Virgilio 🚀
 
-## 📊 Minhas Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+Sou apaixonada por tecnologia e atualmente estou me aprofundando em desenvolvimento fullstack e análise de dados. Meu objetivo é criar soluções inovadoras que agreguem valor às pessoas e empresas. 💡
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
+### 📌 Sobre mim
+- 💻 Desenvolvedora Fullstack JavaScript
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 🚀 Formação pela Generation Brasil e AWS re/Start
 
 ---
 
-## 📌 Projetos em Destaque
-🔹 [OrangeBank](https://github.com/seu-usuario/orangebank) - Uma plataforma bancária inovadora para jovens e empreendedores.
-🔹 [Bell Hooks Center](https://github.com/seu-usuario/bell-hooks) - Um projeto voltado para o empoderamento feminino e inclusão.
+## 🔥 Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-## 🌎 Conecte-se Comigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 📂 Projetos em Destaque
+
+### 🔹 Projeto Conta Bancária 💳
+Um sistema bancário desenvolvido com **TypeScript e Node.js**, utilizando **princípios de programação orientada a objetos (POO)** e banco de dados para armazenar informações de usuários e transações.
+
+🔗 [Repositório](https://github.com/Virgilioleticia/Projeto-Conta-Bancaria)
+
+### 🔹 Centro Bell Hooks 🏛️
+Um espaço interativo e informativo criado com **React, Node.js e banco de dados SQL**, com o objetivo de promover discussões sobre diversidade, inclusão e conhecimento acadêmico.
+
+🔗 [Repositório](https://github.com/Virgilioleticia/Centro-Bell-Hooks)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Virgilioleticia&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virgilioleticia&layout=compact&langs_count=6&theme=radical"/>
+</div>
 
-💡 *Sempre aprendendo e evoluindo!*
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virgilioleticia/)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virgilioleticia@gmail.com)
+
+---
+
+## 🚀 Pequena Animação
+```svg
+<svg width="600" height="100">
+  <text x="50" y="50" font-size="30" fill="blue">Bem-vindo ao meu GitHub! 🚀</text>
+</svg>
+```
