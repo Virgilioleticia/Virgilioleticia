@@ -13,20 +13,6 @@
 
 ---
 
-## 📂 Projetos em Destaque
-
-### 🔹 Projeto Conta Bancária 💳
-Um sistema bancário desenvolvido com **TypeScript e Node.js**, utilizando **princípios de programação orientada a objetos (POO)** e banco de dados para armazenar informações de usuários e transações.
-
-🔗 [Repositório](https://github.com/Virgilioleticia/Projeto-Conta-Bancaria)
-
-### 🔹 Centro Bell Hooks 🏛️
-Um espaço interativo e informativo criado com **React, Node.js e banco de dados SQL**, com o objetivo de promover discussões sobre diversidade, inclusão e conhecimento acadêmico.
-
-🔗 [Repositório](https://github.com/Virgilioleticia/Centro-Bell-Hooks)
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Virgilioleticia&show_icons=true&theme=radical"/>
