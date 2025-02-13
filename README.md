@@ -1,12 +1,5 @@
 ## Olá! Eu sou a Letícia Virgilio 🚀
 
-### 📌 Sobre mim
-- 💻 Desenvolvedora Fullstack JavaScript
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🚀 Formação pela Generation Brasil e AWS re/Start
-
----
-
 ## 🔥 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
